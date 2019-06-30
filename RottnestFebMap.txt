@@ -1,0 +1,34 @@
+#SampleID	code	latitude	longitude	Lake	Site	Mat ID	Mat Colour	Mat	Type	Description
+mgm4783280.3	JM01	-31.996565	115.531482	Herschel	HW	P-HW	Black	Pustular	Lithifying	C
+mgm4783271.3	JM02	-31.996565	115.531482	Herschel	HW	P-HW	Black	Pustular	Lithifying	C
+mgm4783293.3	JM03	-31.996565	115.531482	Herschel	HW	P-HW	Black	Pustular	Lithifying	C
+mgm4783276.3	JM04	-31.996565	115.531482	Herschel	HW	B-HW	OPP	Blister	Lithifying	A
+mgm4783289.3	JM05	-31.996565	115.531482	Herschel	HW	B-HW	OPP	Blister	Lithifying	A
+mgm4783298.3	JM06	-31.996565	115.531482	Herschel	HW	B-HW	OPP	Blister	Lithifying	A
+mgm4783295.3	JM07	-31.996531	115.533257	Herschel	HE	NL-HE	WBGP	Nonlithifying loosely cohesive	Nonlithifying	D
+mgm4783273.3	JM08	-31.996531	115.533257	Herschel	HE	NL-HE	WBGP	Nonlithifying loosely cohesive	Nonlithifying	D
+mgm4783286.3	JM09	-31.996531	115.533257	Herschel	HE	NL-HE	WBGP	Nonlithifying loosely cohesive	Nonlithifying	D
+mgm4783281.3	JM10	-31.995604	115.536873	Garden	GN	NL-GN	WBGP	Nonlithifying loosely cohesive	Nonlithifying	D
+mgm4783294.3	JM11	-31.995604	115.536873	Garden	GN	NL-GN	WBGP	Nonlithifying loosely cohesive	Nonlithifying	D
+mgm4783278.3	JM12	-31.995604	115.536873	Garden	GN	NL-GN	WBGP	Nonlithifying loosely cohesive	Nonlithifying	D
+mgm4783290.3	JM13	-31.99737	115.536569	Garden	GS	NC-GS	WO	Nonlithifying cohesive	Nonlithifying	E
+mgm4783272.3	JM14	-31.99737	115.536569	Garden	GS	NC-GS	WO	Nonlithifying cohesive	Nonlithifying	E
+mgm4783283.3	JM15	-31.99737	115.536569	Garden	GS	NC-GS	WO	Nonlithifying cohesive	Nonlithifying	E
+mgm4783287.3	JM16	-31.994794	115.523776	Baghdad	BG	P-BG	Black	Pustular	Lithifying	C
+mgm4783291.3	JM17	-31.994794	115.523776	Baghdad	BG	P-BG	Black	Pustular	Lithifying	C
+mgm4783285.3	JM18	-31.994794	115.523776	Baghdad	BG	P-BG	Black	Pustular	Lithifying	C
+mgm4783284.3	JM19	-31.994794	115.523776	Baghdad	BG	F-BG	Brown GP	Flocculent	Lithifying	B
+mgm4783268.3	JM20	-31.994794	115.523776	Baghdad	BG	F-BG	Brown GP	Flocculent	Lithifying	B
+mgm4783274.3	JM21	-31.994794	115.523776	Baghdad	BG	F-BG	Brown GP	Flocculent	Lithifying	B
+mgm4783267.3	JM22	-32.002717	115.525989	Serpentine	SN	P-SN	Black	Pustular	Lithifying	C
+mgm4783270.3	JM23	-32.002717	115.525989	Serpentine	SN	P-SN	Black	Pustular	Lithifying	C
+mgm4783297.3	JM24	-32.002717	115.525989	Serpentine	SN	P-SN	Black	Pustular	Lithifying	C
+mgm4783292.3	JM25	-32.002717	115.525989	Serpentine	SN	B-SN	OPP	Blister	Lithifying	A
+mgm4783277.3	JM26	-32.002717	115.525989	Serpentine	SN	B-SN	OPP	Blister	Lithifying	A
+mgm4783282.3	JM27	-32.002717	115.525989	Serpentine	SN	B-SN	OPP	Blister	Lithifying	A
+mgm4783275.3	JM28	-32.006972	115.520541	Serpentine	SW	P-SW	Black	Pustular	Lithifying	C
+mgm4783296.3	JM29	-32.006972	115.520541	Serpentine	SW	P-SW	Black	Pustular	Lithifying	C
+mgm4783299.3	JM30	-32.006972	115.520541	Serpentine	SW	P-SW	Black	Pustular	Lithifying	C
+mgm4783288.3	JM31	-31.999838	115.51448	Vincent	VC	F-VC	Brown GP	Flocculent	Lithifying	B
+mgm4783279.3	JM32	-31.999838	115.51448	Vincent	VC	F-VC	Brown GP	Flocculent	Lithifying	B
+mgm4783269.3	JM33	-31.999838	115.51448	Vincent	VC	F-VC	Brown GP	Flocculent	Lithifying	B
